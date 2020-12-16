@@ -2,16 +2,37 @@ body {
 	margin: 0;
 	font-family: 'Open Sans', sans-serif;
   -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+	-moz-osx-font-smoothing: grayscale;
+	color: #4F6986;
+	overflow-x: hidden;
 }
 
 a {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Montserrat', sans-serif;
+}
+
+h1, h2 {
+	font-family: 'Raleway', 'Andika New Basic', 'Open Sans', sans-serif;
+	font-weight: 300;
+}
+
+.italic {
+	/* font-family: 'Andika New Basic', sans-serif; */
+	font-style: italic;
 }
 
 h1 {
-	font-family: 'PT Serif', serif;
-	font-family: 'Josefin Sans', sans-serif !important;
+	font-size: 4em;
+	margin-bottom: 16px;
+}
+h2 {
+	font-size: 2em;
+	margin-bottom: 16px;
+	color: #16171C;
+}
+
+p {
+	margin-bottom: 32px;
 }
 
 code {
