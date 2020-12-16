@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/activeconnection-joinpage/static/css/main.7acd9075.chunk.css",
+    "main.js": "/activeconnection-joinpage/static/js/main.e2e1b973.chunk.js",
+    "main.js.map": "/activeconnection-joinpage/static/js/main.e2e1b973.chunk.js.map",
+    "runtime-main.js": "/activeconnection-joinpage/static/js/runtime-main.fb78f089.js",
+    "runtime-main.js.map": "/activeconnection-joinpage/static/js/runtime-main.fb78f089.js.map",
+    "static/js/2.062c2aa8.chunk.js": "/activeconnection-joinpage/static/js/2.062c2aa8.chunk.js",
+    "static/js/2.062c2aa8.chunk.js.map": "/activeconnection-joinpage/static/js/2.062c2aa8.chunk.js.map",
+    "static/js/3.33c09236.chunk.js": "/activeconnection-joinpage/static/js/3.33c09236.chunk.js",
+    "static/js/3.33c09236.chunk.js.map": "/activeconnection-joinpage/static/js/3.33c09236.chunk.js.map",
+    "index.html": "/activeconnection-joinpage/index.html",
+    "static/css/main.7acd9075.chunk.css.map": "/activeconnection-joinpage/static/css/main.7acd9075.chunk.css.map",
+    "static/js/2.062c2aa8.chunk.js.LICENSE.txt": "/activeconnection-joinpage/static/js/2.062c2aa8.chunk.js.LICENSE.txt",
+    "static/media/ActiveConnections.fd519634.png": "/activeconnection-joinpage/static/media/ActiveConnections.fd519634.png",
+    "static/media/ActiveConnections_icon.6beddbbf.png": "/activeconnection-joinpage/static/media/ActiveConnections_icon.6beddbbf.png",
+    "static/media/group-exercise.a31f66ac.png": "/activeconnection-joinpage/static/media/group-exercise.a31f66ac.png",
+    "static/media/lady-dumbells.75761b56.png": "/activeconnection-joinpage/static/media/lady-dumbells.75761b56.png",
+    "static/media/socialmedia.df7571b8.png": "/activeconnection-joinpage/static/media/socialmedia.df7571b8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb78f089.js",
+    "static/js/2.062c2aa8.chunk.js",
+    "static/css/main.7acd9075.chunk.css",
+    "static/js/main.e2e1b973.chunk.js"
+  ]
+}
