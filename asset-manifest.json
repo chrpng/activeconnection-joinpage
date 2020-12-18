@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/activeconnection-joinpage/static/css/main.2650175a.chunk.css",
-    "main.js": "/activeconnection-joinpage/static/js/main.bb10c2da.chunk.js",
-    "main.js.map": "/activeconnection-joinpage/static/js/main.bb10c2da.chunk.js.map",
+    "main.js": "/activeconnection-joinpage/static/js/main.ce9a13a4.chunk.js",
+    "main.js.map": "/activeconnection-joinpage/static/js/main.ce9a13a4.chunk.js.map",
     "runtime-main.js": "/activeconnection-joinpage/static/js/runtime-main.a374e600.js",
     "runtime-main.js.map": "/activeconnection-joinpage/static/js/runtime-main.a374e600.js.map",
     "static/css/2.6f3f30c1.chunk.css": "/activeconnection-joinpage/static/css/2.6f3f30c1.chunk.css",
@@ -27,6 +27,6 @@
     "static/css/2.6f3f30c1.chunk.css",
     "static/js/2.d83d795b.chunk.js",
     "static/css/main.2650175a.chunk.css",
-    "static/js/main.bb10c2da.chunk.js"
+    "static/js/main.ce9a13a4.chunk.js"
   ]
 }
