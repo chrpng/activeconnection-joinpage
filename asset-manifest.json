@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/activeconnection-joinpage/static/css/main.2650175a.chunk.css",
-    "main.js": "/activeconnection-joinpage/static/js/main.76aed15e.chunk.js",
-    "main.js.map": "/activeconnection-joinpage/static/js/main.76aed15e.chunk.js.map",
+    "main.css": "/activeconnection-joinpage/static/css/main.eef642e8.chunk.css",
+    "main.js": "/activeconnection-joinpage/static/js/main.3cd36097.chunk.js",
+    "main.js.map": "/activeconnection-joinpage/static/js/main.3cd36097.chunk.js.map",
     "runtime-main.js": "/activeconnection-joinpage/static/js/runtime-main.a374e600.js",
     "runtime-main.js.map": "/activeconnection-joinpage/static/js/runtime-main.a374e600.js.map",
     "static/css/2.6f3f30c1.chunk.css": "/activeconnection-joinpage/static/css/2.6f3f30c1.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.7bba46d4.chunk.js.map": "/activeconnection-joinpage/static/js/3.7bba46d4.chunk.js.map",
     "index.html": "/activeconnection-joinpage/index.html",
     "static/css/2.6f3f30c1.chunk.css.map": "/activeconnection-joinpage/static/css/2.6f3f30c1.chunk.css.map",
-    "static/css/main.2650175a.chunk.css.map": "/activeconnection-joinpage/static/css/main.2650175a.chunk.css.map",
+    "static/css/main.eef642e8.chunk.css.map": "/activeconnection-joinpage/static/css/main.eef642e8.chunk.css.map",
     "static/js/2.d83d795b.chunk.js.LICENSE.txt": "/activeconnection-joinpage/static/js/2.d83d795b.chunk.js.LICENSE.txt",
     "static/media/ActiveConnections.111b80e8.png": "/activeconnection-joinpage/static/media/ActiveConnections.111b80e8.png",
     "static/media/BRIDGES_Logo_R1.5ebea2f2.png": "/activeconnection-joinpage/static/media/BRIDGES_Logo_R1.5ebea2f2.png",
@@ -26,7 +26,7 @@
     "static/js/runtime-main.a374e600.js",
     "static/css/2.6f3f30c1.chunk.css",
     "static/js/2.d83d795b.chunk.js",
-    "static/css/main.2650175a.chunk.css",
-    "static/js/main.76aed15e.chunk.js"
+    "static/css/main.eef642e8.chunk.css",
+    "static/js/main.3cd36097.chunk.js"
   ]
 }
